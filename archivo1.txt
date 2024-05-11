@@ -1,0 +1,18 @@
+Estoy en la primera linea del archivo 1
+Estoy en la segunda linea del archivo 2
+
+Comandos esenciales
+
+git init
+git add <file> 
+git add . 
+git status
+git reset <file>
+git commit -m "Mensaje de confirnmación aqui"  //Registro de inf. en repositorio local
+   //Asociación con repositorio remoto
+git config --global user.name <name user GitHub>
+git config --global user.email <correo de enlace>
+  //Crear repositorio en GitHub
+copiar git remote add origin https://
+copiar git push -u origin master
+ 
